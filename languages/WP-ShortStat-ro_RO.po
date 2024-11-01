@@ -1,0 +1,110 @@
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-shortstat2\n"
+"POT-Creation-Date: 2009-01-07 19:57+0000\n"
+"PO-Revision-Date: 2012-03-19 16:26+0200\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-shortstat.php:861
+msgid "Day"
+msgstr "Zi"
+
+#: wp-shortstat.php:861
+#: wp-shortstat.php:885
+msgid "Unique"
+msgstr "Unic"
+
+#: wp-shortstat.php:861
+msgid "Hits+RSS"
+msgstr "Hit-uri + RSS"
+
+#: wp-shortstat.php:867
+msgid "Today, "
+msgstr "AstÄzi, "
+
+#: wp-shortstat.php:885
+msgid "Since"
+msgstr "Deoarece"
+
+#: wp-shortstat.php:885
+#: wp-shortstat.php:982
+#: wp-shortstat.php:986
+msgid "Hits"
+msgstr "Hit-uri"
+
+#: wp-shortstat.php:887
+msgid "%e %b %Y, %H:%M"
+msgstr "%e %d % Y, % H: % M"
+
+#: wp-shortstat.php:962
+msgid "Last week"
+msgstr "sÄptÄmÃ¢na trecutÄ"
+
+#: wp-shortstat.php:966
+msgid "Last Resources"
+msgstr "Ultima resurse"
+
+#: wp-shortstat.php:966
+#: wp-shortstat.php:970
+#: wp-shortstat.php:974
+msgid "When"
+msgstr "cÃ¢nd"
+
+#: wp-shortstat.php:970
+msgid "Last Keywords"
+msgstr "Ultimele cuvinte cheie"
+
+#: wp-shortstat.php:974
+msgid "Last Referers"
+msgstr "Ultima referenti"
+
+#: wp-shortstat.php:978
+msgid "Keywords"
+msgstr "Cuvinte cheie"
+
+#: wp-shortstat.php:978
+msgid "Total"
+msgstr "Total"
+
+#: wp-shortstat.php:982
+msgid "Resources"
+msgstr "Resurse"
+
+#: wp-shortstat.php:986
+msgid "Domains"
+msgstr "Domenii"
+
+#: wp-shortstat.php:990
+msgid "Browsers"
+msgstr "Browsere"
+
+#: wp-shortstat.php:994
+msgid "Platforms"
+msgstr "Platforme"
+
+#: wp-shortstat.php:998
+msgid "Countries"
+msgstr "Å¢Äri"
+
+#: wp-shortstat.php:998
+msgid "Visits"
+msgstr "Vizite"
+
+#: wp-shortstat.php:1002
+msgid "Languages"
+msgstr "Limbi"
+
+#: wp-shortstat.php:1005
+msgid "Â© 2004, 2009"
+msgstr "Â© 2004, 2009"
+

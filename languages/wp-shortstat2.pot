@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-shortstat2\n"
+"POT-Creation-Date: 2009-01-07 19:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-shortstat.php:861
+msgid "Day"
+msgstr ""
+
+#: wp-shortstat.php:861 wp-shortstat.php:885
+msgid "Unique"
+msgstr ""
+
+#: wp-shortstat.php:861
+msgid "Hits+RSS"
+msgstr ""
+
+#: wp-shortstat.php:867
+msgid "Today, "
+msgstr ""
+
+#: wp-shortstat.php:885
+msgid "Since"
+msgstr ""
+
+#: wp-shortstat.php:885 wp-shortstat.php:982 wp-shortstat.php:986
+msgid "Hits"
+msgstr ""
+
+#: wp-shortstat.php:887
+msgid "%e %b %Y, %H:%M"
+msgstr ""
+
+#: wp-shortstat.php:962
+msgid "Last week"
+msgstr ""
+
+#: wp-shortstat.php:966
+msgid "Last Resources"
+msgstr ""
+
+#: wp-shortstat.php:966 wp-shortstat.php:970 wp-shortstat.php:974
+msgid "When"
+msgstr ""
+
+#: wp-shortstat.php:970
+msgid "Last Keywords"
+msgstr ""
+
+#: wp-shortstat.php:974
+msgid "Last Referers"
+msgstr ""
+
+#: wp-shortstat.php:978
+msgid "Keywords"
+msgstr ""
+
+#: wp-shortstat.php:978
+msgid "Total"
+msgstr ""
+
+#: wp-shortstat.php:982
+msgid "Resources"
+msgstr ""
+
+#: wp-shortstat.php:986
+msgid "Domains"
+msgstr ""
+
+#: wp-shortstat.php:990
+msgid "Browsers"
+msgstr ""
+
+#: wp-shortstat.php:994
+msgid "Platforms"
+msgstr ""
+
+#: wp-shortstat.php:998
+msgid "Countries"
+msgstr ""
+
+#: wp-shortstat.php:998
+msgid "Visits"
+msgstr ""
+
+#: wp-shortstat.php:1002
+msgid "Languages"
+msgstr ""
+
+#: wp-shortstat.php:1005
+msgid "&copy; 2004, 2009"
+msgstr ""

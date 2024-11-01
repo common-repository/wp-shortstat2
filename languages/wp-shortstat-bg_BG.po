@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shortstat\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-shortstat2\n"
+"POT-Creation-Date: 2009-01-07 19:57+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dimitar Atanasov <lirex@chereshka.net>\n"
+"Language-Team: zhr@tut.by <iliamrv@ya.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-shortstat.php:861
+msgid "Day"
+msgstr "Ден"
+
+#: wp-shortstat.php:861
+#: wp-shortstat.php:885
+msgid "Unique"
+msgstr "Уникални"
+
+#: wp-shortstat.php:861
+msgid "Hits+RSS"
+msgstr "Hits+RSS"
+
+#: wp-shortstat.php:867
+msgid "Today, "
+msgstr "Днес,"
+
+#: wp-shortstat.php:885
+msgid "Since"
+msgstr "от"
+
+#: wp-shortstat.php:885
+#: wp-shortstat.php:982
+#: wp-shortstat.php:986
+msgid "Hits"
+msgstr "Hits"
+
+# Questa stringa formatta la data del primo accesso in assoluto
+#: wp-shortstat.php:887
+msgid "%e %b %Y, %H:%M"
+msgstr "%e %b %Y, %H:%M"
+
+#: wp-shortstat.php:962
+msgid "Last week"
+msgstr "Последна седмица"
+
+#: wp-shortstat.php:966
+msgid "Last Resources"
+msgstr "Последни ресурси"
+
+#: wp-shortstat.php:966
+#: wp-shortstat.php:970
+#: wp-shortstat.php:974
+msgid "When"
+msgstr "Кога"
+
+#: wp-shortstat.php:970
+msgid "Last Keywords"
+msgstr "Последни кл. думи"
+
+#: wp-shortstat.php:974
+msgid "Last Referers"
+msgstr "Последни препратки"
+
+#: wp-shortstat.php:978
+msgid "Keywords"
+msgstr "Ключови думи"
+
+#: wp-shortstat.php:978
+msgid "Total"
+msgstr "Общо"
+
+#: wp-shortstat.php:982
+msgid "Resources"
+msgstr "Ресурси"
+
+#: wp-shortstat.php:986
+msgid "Domains"
+msgstr "Домейни"
+
+#: wp-shortstat.php:990
+msgid "Browsers"
+msgstr "Браузъри"
+
+#: wp-shortstat.php:994
+msgid "Platforms"
+msgstr "Платформи"
+
+#: wp-shortstat.php:998
+msgid "Countries"
+msgstr "Страни"
+
+#: wp-shortstat.php:998
+msgid "Visits"
+msgstr "Посещения"
+
+#: wp-shortstat.php:1002
+msgid "Languages"
+msgstr "Езици"
+
+#: wp-shortstat.php:1005
+msgid "&copy; 2004, 2009"
+msgstr "&copy; 2004"
+
+#~ msgid "Today by"
+#~ msgstr "Сёння па"
+

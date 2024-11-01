@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Short Stat\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-07-05 21:55+0100\n"
+"Last-Translator: Markus Kaemmerer <mk@happyarts.de>\n"
+"Language-Team: KOSIR.info <info@kosir.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Slovenian\n"
+"X-Poedit-Country: SLOVENIA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: s\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-shortstat.php:678
+#: Archiv/wp-shortstat_it.php:690
+msgid "Day"
+msgstr "Dan"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+msgid "Unique"
+msgstr "Unikum"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: wp-shortstat.php:809
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+#: Archiv/wp-shortstat_it.php:817
+#: Archiv/wp-shortstat_it.php:822
+msgid "Hits"
+msgstr "Obiskov"
+
+#: wp-shortstat.php:684
+msgid "Today, "
+msgstr "Danes"
+
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "Since"
+msgstr "Od"
+
+# Questa stringa formatta la data del primo accesso in assoluto
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "%e %b %Y, %H:%M"
+msgstr "%e %b %Y, %H:%M"
+
+#: wp-shortstat.php:782
+#: Archiv/wp-shortstat_it.php:796
+msgid "Last week"
+msgstr "Zadnjih 7 dni"
+
+#: wp-shortstat.php:787
+#: Archiv/wp-shortstat_it.php:801
+msgid "Platforms"
+msgstr "Platforme"
+
+#: wp-shortstat.php:794
+#: Archiv/wp-shortstat_it.php:842
+msgid "Last Resources"
+msgstr "Zadnji obiski"
+
+#: wp-shortstat.php:794
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+#: Archiv/wp-shortstat_it.php:842
+msgid "When"
+msgstr "Kdaj"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Keywords"
+msgstr "Besedne zveze"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Total"
+msgstr "Skupaj"
+
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+msgid "Referers"
+msgstr "Predajalci"
+
+#: wp-shortstat.php:809
+#: Archiv/wp-shortstat_it.php:817
+msgid "Domains"
+msgstr "Domene"
+
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:822
+msgid "Resources"
+msgstr "Obiski"
+
+#: wp-shortstat.php:818
+#: Archiv/wp-shortstat_it.php:837
+msgid "Languages"
+msgstr "Jeziki"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Countries"
+msgstr "Države"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Visits"
+msgstr "Obiski"
+
+#: wp-shortstat.php:828
+#: Archiv/wp-shortstat_it.php:807
+msgid "Browsers"
+msgstr "Brskalniki"
+
+#: wp-shortstat.php:834
+#: Archiv/wp-shortstat_it.php:846
+msgid "&copy; 2004"
+msgstr " &copy; 2004"
+
+#: Archiv/wp-shortstat_it.php:790
+msgid "Today by"
+msgstr "Danes po"
+
+# Questa stringa si riferisce alla formattazione dell'orario per le visite di oggi
+#: Archiv/wp-shortstat_it.php:790
+msgid "%H:%M"
+msgstr "%H:%M"
+

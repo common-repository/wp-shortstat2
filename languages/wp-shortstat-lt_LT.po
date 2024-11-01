@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Short Stat\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2011-07-28 09:14+0200\n"
+"Last-Translator: Natalija Strazdauskienė <ciuvir@mail.ru>\n"
+"Language-Team: Nata Strazda <nata@epastas.lt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Lithuanian\n"
+"X-Poedit-Country: LITHUANIA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: s\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-shortstat.php:678
+#: Archiv/wp-shortstat_it.php:690
+msgid "Day"
+msgstr "Diena"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+msgid "Unique"
+msgstr "Unikalių"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: wp-shortstat.php:809
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+#: Archiv/wp-shortstat_it.php:817
+#: Archiv/wp-shortstat_it.php:822
+msgid "Hits"
+msgstr "Hitai"
+
+#: wp-shortstat.php:684
+msgid "Today, "
+msgstr "Šiandien,"
+
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "Since"
+msgstr "Nuo"
+
+# Questa stringa formatta la data del primo accesso in assoluto
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "%e %b %Y, %H:%M"
+msgstr "%e %b %Y, %H:%M"
+
+#: wp-shortstat.php:782
+#: Archiv/wp-shortstat_it.php:796
+msgid "Last week"
+msgstr "Paskutinę savaitę"
+
+#: wp-shortstat.php:787
+#: Archiv/wp-shortstat_it.php:801
+msgid "Platforms"
+msgstr "Platformos"
+
+#: wp-shortstat.php:794
+#: Archiv/wp-shortstat_it.php:842
+msgid "Last Resources"
+msgstr "Paskutiniai ištekliai"
+
+#: wp-shortstat.php:794
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+#: Archiv/wp-shortstat_it.php:842
+msgid "When"
+msgstr "Kada"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Keywords"
+msgstr "Raktiniai žodžiai"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Total"
+msgstr "Iš viso"
+
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+msgid "Referers"
+msgstr "Perėjimai"
+
+#: wp-shortstat.php:809
+#: Archiv/wp-shortstat_it.php:817
+msgid "Domains"
+msgstr "Domenai"
+
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:822
+msgid "Resources"
+msgstr "Ištekliai"
+
+#: wp-shortstat.php:818
+#: Archiv/wp-shortstat_it.php:837
+msgid "Languages"
+msgstr "Kalbos"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Countries"
+msgstr "Šalys"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Visits"
+msgstr "Apslankymų"
+
+#: wp-shortstat.php:828
+#: Archiv/wp-shortstat_it.php:807
+msgid "Browsers"
+msgstr "Naršyklės"
+
+#: wp-shortstat.php:834
+#: Archiv/wp-shortstat_it.php:846
+msgid "&copy; 2004"
+msgstr "&copy; 2004"
+
+#: Archiv/wp-shortstat_it.php:790
+msgid "Today by"
+msgstr "Šiandien"
+
+# Questa stringa si riferisce alla formattazione dell'orario per le visite di oggi
+#: Archiv/wp-shortstat_it.php:790
+msgid "%H:%M"
+msgstr "%H:%M"
+

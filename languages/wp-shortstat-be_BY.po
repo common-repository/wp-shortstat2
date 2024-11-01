@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shortstat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-09 13:02-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: zhr@tut.by <iliamrv@ya.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-shortstat.php:678
+#: Archiv/wp-shortstat_it.php:690
+msgid "Day"
+msgstr "Дзень"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+msgid "Unique"
+msgstr "Унікальных"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: wp-shortstat.php:809
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+#: Archiv/wp-shortstat_it.php:817
+#: Archiv/wp-shortstat_it.php:822
+msgid "Hits"
+msgstr "Націскаў"
+
+#: wp-shortstat.php:684
+msgid "Today, "
+msgstr "Сёння"
+
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "Since"
+msgstr "Тольько"
+
+# Questa stringa formatta la data del primo accesso in assoluto
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "%e %b %Y, %H:%M"
+msgstr "%e %b %Y, %H:%M"
+
+#: wp-shortstat.php:782
+#: Archiv/wp-shortstat_it.php:796
+msgid "Last week"
+msgstr "Апошні тыдзень"
+
+#: wp-shortstat.php:787
+#: Archiv/wp-shortstat_it.php:801
+msgid "Platforms"
+msgstr "Платформы"
+
+#: wp-shortstat.php:794
+#: Archiv/wp-shortstat_it.php:842
+msgid "Last Resources"
+msgstr "Апошнія рэсурсы"
+
+#: wp-shortstat.php:794
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+#: Archiv/wp-shortstat_it.php:842
+msgid "When"
+msgstr "Калі"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Keywords"
+msgstr "Ключавыя словы"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Total"
+msgstr "Усяго"
+
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+msgid "Referers"
+msgstr "Пераходы"
+
+#: wp-shortstat.php:809
+#: Archiv/wp-shortstat_it.php:817
+msgid "Domains"
+msgstr "Дамены"
+
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:822
+msgid "Resources"
+msgstr "Рэсурсы"
+
+#: wp-shortstat.php:818
+#: Archiv/wp-shortstat_it.php:837
+msgid "Languages"
+msgstr "Мовы"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Countries"
+msgstr "Краіны"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Visits"
+msgstr "Наведванняў"
+
+#: wp-shortstat.php:828
+#: Archiv/wp-shortstat_it.php:807
+msgid "Browsers"
+msgstr "Браўзары"
+
+#: wp-shortstat.php:834
+#: Archiv/wp-shortstat_it.php:846
+msgid "&copy; 2004"
+msgstr "&copy; 2004"
+
+#: Archiv/wp-shortstat_it.php:790
+msgid "Today by"
+msgstr "Сёння па"
+
+# Questa stringa si riferisce alla formattazione dell'orario per le visite di oggi
+#: Archiv/wp-shortstat_it.php:790
+msgid "%H:%M"
+msgstr "%H:%M"
+

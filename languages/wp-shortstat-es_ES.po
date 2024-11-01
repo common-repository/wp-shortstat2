@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Short Stat\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-02-25 10:28+0100\n"
+"Last-Translator: Jaime Gómez Obregón <jaime@iteisa.com>\n"
+"Language-Team: Jaime Gómez Obregón <jaime@iteisa.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: s\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-shortstat.php:678
+#: Archiv/wp-shortstat_it.php:690
+msgid "Day"
+msgstr "Día"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+msgid "Unique"
+msgstr "Único"
+
+#: wp-shortstat.php:678
+#: wp-shortstat.php:773
+#: wp-shortstat.php:809
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:690
+#: Archiv/wp-shortstat_it.php:785
+#: Archiv/wp-shortstat_it.php:817
+#: Archiv/wp-shortstat_it.php:822
+msgid "Hits"
+msgstr "Hits"
+
+#: wp-shortstat.php:684
+#, fuzzy
+msgid "Today, "
+msgstr "Hoy, "
+
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "Since"
+msgstr "Desde"
+
+# Questa stringa formatta la data del primo accesso in assoluto
+#: wp-shortstat.php:775
+#: Archiv/wp-shortstat_it.php:787
+msgid "%e %b %Y, %H:%M"
+msgstr "%e %b %Y, %H:%M"
+
+#: wp-shortstat.php:782
+#: Archiv/wp-shortstat_it.php:796
+msgid "Last week"
+msgstr "Últimos 7 días"
+
+#: wp-shortstat.php:787
+#: Archiv/wp-shortstat_it.php:801
+msgid "Platforms"
+msgstr "Plataformas"
+
+#: wp-shortstat.php:794
+#: Archiv/wp-shortstat_it.php:842
+msgid "Last Resources"
+msgstr "Últimos recursos"
+
+#: wp-shortstat.php:794
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+#: Archiv/wp-shortstat_it.php:842
+msgid "When"
+msgstr "Cuándo"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Keywords"
+msgstr "Keywords"
+
+#: wp-shortstat.php:798
+#: Archiv/wp-shortstat_it.php:827
+msgid "Total"
+msgstr "Total"
+
+#: wp-shortstat.php:804
+#: Archiv/wp-shortstat_it.php:812
+msgid "Referers"
+msgstr "Referers"
+
+#: wp-shortstat.php:809
+#: Archiv/wp-shortstat_it.php:817
+msgid "Domains"
+msgstr "Dominios"
+
+#: wp-shortstat.php:814
+#: Archiv/wp-shortstat_it.php:822
+msgid "Resources"
+msgstr "Recursos"
+
+#: wp-shortstat.php:818
+#: Archiv/wp-shortstat_it.php:837
+msgid "Languages"
+msgstr "Idiomas"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Countries"
+msgstr "Países"
+
+#: wp-shortstat.php:823
+#: Archiv/wp-shortstat_it.php:832
+msgid "Visits"
+msgstr "Visitas"
+
+#: wp-shortstat.php:828
+#: Archiv/wp-shortstat_it.php:807
+msgid "Browsers"
+msgstr "Navegadores"
+
+#: wp-shortstat.php:834
+#: Archiv/wp-shortstat_it.php:846
+msgid "&copy; 2004"
+msgstr " &copy; 2004"
+
+#: Archiv/wp-shortstat_it.php:790
+msgid "Today by"
+msgstr "Hoy desde"
+
+# Questa stringa si riferisce alla formattazione dell'orario per le visite di oggi
+#: Archiv/wp-shortstat_it.php:790
+msgid "%H:%M"
+msgstr "%H:%M"
+
